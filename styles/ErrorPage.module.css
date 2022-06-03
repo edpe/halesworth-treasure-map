@@ -1,0 +1,58 @@
+.centerInPage {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 20px;
+  flex: 1 1 auto;
+}
+@media (min-width: 600px) {
+  .centerInPage {
+    justify-content: center;
+    height: 60vh;
+    padding: 20px 300px;
+  }
+}
+
+.errorImage {
+  width: 150px;
+  height: 84px;
+}
+
+@media (min-width: 600px) {
+  .errorImage {
+    height: 300px;
+    width: 168px;
+  }
+}
+
+.title {
+  margin-top: 40px;
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  font-size: 20px;
+  text-align: center;
+  font-weight: 400;
+  color: #413c3e;
+}
+
+@media (min-width: 600px) {
+  .title {
+    font-size: 25px;
+    margin: 32px;
+  }
+}
+
+.text {
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  font-size: 13px;
+  text-align: center;
+  color: #413c3e;
+  line-height: 1.5;
+  margin: 4px;
+}
+
+@media (min-width: 600px) {
+  .text {
+    font-size: 16px;
+    margin: 32px;
+  }
+}

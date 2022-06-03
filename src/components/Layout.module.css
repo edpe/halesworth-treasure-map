@@ -1,0 +1,70 @@
+.header {
+  width: 100%;
+  min-height: 75.14px;
+  background: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 3px 14px rgb(0 0 0 / 40%);
+}
+
+.visuallyHidden {
+  border: 0;
+  clip: rect(0 0 0 0);
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+  width: 1px;
+  font-size: 0;
+}
+
+@media (min-width: 600px) {
+  .header {
+    min-height: 125px;
+  }
+}
+
+.logoWrapper {
+  height: 43.14px;
+  width: 153px;
+  cursor: pointer;
+}
+
+@media (min-width: 600px) {
+  .logoWrapper {
+    width: 234px;
+    height: 65.42px;
+  }
+}
+
+.pageWrapper {
+  display: flex;
+  flex-flow: column;
+  height: 100vh;
+}
+.contentWrapper {
+  display: flex;
+  flex-direction: column;
+  flex: 1 1 auto;
+}
+
+.footer {
+  min-height: 80px;
+  width: 100%;
+  background-color: #fff;
+  box-shadow: 0 3px 14px rgb(0 0 0 / 40%);
+  margin-top: 10px;
+  box-shadow: 0 3px 14px rgb(0 0 0 / 40%);
+}
+
+@media (min-width: 600px) {
+  .footer {
+    min-height: 80px;
+    width: 100%;
+    background-color: #fff;
+    margin-top: 10px;
+    box-shadow: 0 3px 14px rgb(0 0 0 / 40%);
+  }
+}

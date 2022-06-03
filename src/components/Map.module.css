@@ -1,0 +1,54 @@
+.serviceInformation {
+  margin: 30px 0;
+  color: #4d4d4d;
+  font-family: "Helvetica Neue", Arial, sans-serif;
+}
+
+.address {
+  color: #4d4d4d;
+  font-family: "Helvetica Neue", Arial, sans-serif;
+}
+
+.popupTitle {
+  margin: 20px;
+  color: #fff;
+  max-width: 75%;
+}
+
+.listWithoutBullets {
+  list-style-type: none;
+  padding: 20px 0 0 0;
+  font-family: "Helvetica Neue", Arial, sans-serif;
+}
+
+.popupHeader {
+  background: #1c1c1c;
+  height: 80px;
+  position: sticky;
+  z-index: 10;
+  top: 0;
+  display: flex;
+  align-items: center;
+  margin: -20px;
+  box-shadow: 0 3px 14px rgb(0 0 0 / 40%);
+}
+
+.popupContent {
+  margin-top: 60px;
+}
+
+.imageWrapper {
+  width: 100%;
+  height: auto;
+}
+
+.imageContainer {
+  position: relative;
+  display: block;
+  margin-top: 20px;
+}
+
+.verticalSpacing {
+  height: 20px;
+  width: 100%;
+}

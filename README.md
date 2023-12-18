@@ -1,34 +1,19 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Proof of concept online information map that was created as part of the Pear Tree Fund's Compassionate Communities work. 
 
-## Getting Started
+The map uses a Strapi CMS and the entire app is hoested for free and eqsily updatable by charity staff through a Strapi UI.
 
-First, run the development server:
+A preview of the POC with live data can be accessed here
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+https://halesworth-treasure-map.vercel.app/
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+From (peartreefund.org)[https://peartreefund.org/]
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+'People living in Halesworth and the surrounding areas are being invited to join the Pear Tree Fund on two special walks to map out the local treasures which help them through tough times.
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+Called ‘asset walks’, the events will take place on 8 and 15 December starting at 10am in the Throughfare at the entrance to the middle car park.
 
-## Learn More
+They have been arranged as part of the Pear Tree Fund’s Compassionate Communities work and will give participants the chance to map the places and spaces, people and pastimes which help them through difficult periods and can improve their quality of life. This could include libraries, health centres, education facilities, leisure centres, cafes, restaurants, bus services, GP practices, shops, faith groups, charities, residents’ associations, support groups, parks and open spaces.
 
-To learn more about Next.js, take a look at the following resources:
+The information they gather will then be used to create an online community treasure map showcasing all of the assets which are available locally to boost wellbeing.'
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.

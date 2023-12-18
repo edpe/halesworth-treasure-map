@@ -1,3 +1,5 @@
+# Halesworth Treasure Map - Compassionate Communities
+
 Proof of concept online information map that was created as part of the Pear Tree Fund's Compassionate Communities work. 
 
 The map uses a Strapi CMS and the entire app is hoested for free and eqsily updatable by charity staff through a Strapi UI.
